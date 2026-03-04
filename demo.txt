@@ -1,0 +1,4 @@
+STEPS
+
+1.create repository at github
+2.create one text file in your local machine
